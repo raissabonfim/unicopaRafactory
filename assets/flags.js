@@ -6,4 +6,4 @@ const  flags = {
     }
     export default flags;
     //GameCard → só mostra a interface 
-//flags.js → guarda as imagens 
+//flags.js → guarda as imagens -
